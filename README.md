@@ -1,12 +1,19 @@
 # Links 
 Aula 1:
+
 https://www.youtube.com/watch?v=aPU1YawBWN8
 
 Aula 2:
+
 https://www.youtube.com/watch?v=jcpS5d4yz2w
 
 Algular Material:
+
 https://material.angular.io/guide/getting-started
+
+Material Icons:
+
+https://fonts.google.com/icons?selected=Material+Icons
 
 # Comandos
 Criar um projeto `ng new <nome-do-projeto>`
