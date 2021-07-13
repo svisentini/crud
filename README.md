@@ -1,3 +1,9 @@
+Aula 1:
+https://www.youtube.com/watch?v=aPU1YawBWN8
+
+Aula 2:
+https://www.youtube.com/watch?v=jcpS5d4yz2w
+
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
